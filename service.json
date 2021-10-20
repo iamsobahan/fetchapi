@@ -5,7 +5,9 @@
         "description" : "Relating to the circulatory system, which comprises the heart and blood vessels and carries nutrients and oxygen to the tissues of the body and removes carbon dioxide and other wastes from them.",
         "doctor": "Sobahan Mia",
         "position": "Orthopedic",
-        "doctorImg": "https://i.ibb.co/h2pGPpH/team-7-270x270.jpg"
+        "doctorImg": "https://i.ibb.co/h2pGPpH/team-7-270x270.jpg",
+        "timeshokal" : "9Aam to 11am",
+        "timerat" : "6pm to 10pm"
 
     },
     {
@@ -15,7 +17,9 @@
         "id" : 2,
         "doctor": "Haliam Z. Dicolaz",
         "position": "Pragnancy",
-        "doctorImg": "https://i.ibb.co/X5yBKMt/team-6-270x270.jpg"
+        "doctorImg": "https://i.ibb.co/X5yBKMt/team-6-270x270.jpg",
+         "timeshokal" : "7Aam to 10am",
+        "timerat" : "8pm to 10pm"
 
     },
     {
@@ -25,7 +29,9 @@
         "id" : 3,
         "doctor": "Salima Rana",
         "position": "Orthopedics",
-        "doctorImg": "https://i.ibb.co/FYPLqtw/team-8-270x270.jpg"
+        "doctorImg": "https://i.ibb.co/FYPLqtw/team-8-270x270.jpg",
+         "timeshokal" : "9Aam to 12am",
+        "timerat" : "9pm to 11pm"
 
     },
     {
@@ -35,7 +41,9 @@
         "id" : 4,
         "doctor": "Nicolas D. Case",
        "position": "Ophtolmologue",
-       "doctorImg": "https://i.ibb.co/VVZc3Pb/team-1-270x270.jpg"
+       "doctorImg": "https://i.ibb.co/VVZc3Pb/team-1-270x270.jpg",
+                "timeshokal" : "10Aam to 12am",
+        "timerat" : "7pm to 10pm"
 
     },
     {
@@ -45,7 +53,9 @@
         "id" : 5,
         "doctor": "Phumdon H. Nor",
       "position": "neurologist",
-       "doctorImg": "https://i.ibb.co/Gsq57qx/com.png"
+       "doctorImg": "https://i.ibb.co/Gsq57qx/com.png",
+                "timeshokal" : "8Aam to 11am",
+        "timerat" : "6pm to 12pm"
 
     },
     {
@@ -55,7 +65,9 @@
         "id" : 6,
         "doctor": "Johanes D. Moran",
         "position": "Dental Hygienist",
-       "doctorImg" : "https://i.ibb.co/ctkvw3N/b2-150x150.jpg"
+       "doctorImg" : "https://i.ibb.co/ctkvw3N/b2-150x150.jpg",
+                "timeshokal" : "9Aam to 11am",
+        "timerat" : "6pm to 10pm"
 
     }
 ]
